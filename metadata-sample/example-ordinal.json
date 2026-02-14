@@ -1,0 +1,11 @@
+{
+  "name": "Bitcoin $100K — 1-Second Ultimate",
+  "collection": "Bitcoin $100K Ordinals Collection",
+  "tier": "Ultimate",
+  "interval": "1-Second",
+  "block_reference": 873201,
+  "block_timestamp_utc": "2024-12-04T02:33:46Z",
+  "provenance_model": "Double-Layer (Market Capture + Confirmation Block)",
+  "total_collection_supply": 201,
+  "description": "The exact confirmed second Bitcoin crossed $100,000, anchored to Block 873201."
+}
