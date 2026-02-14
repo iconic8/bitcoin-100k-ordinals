@@ -84,3 +84,19 @@ It exists as a public transparency archive.
 
 Official Website:
 https://bitcoin100k.pro
+
+---
+
+## Archival Purpose
+
+This repository serves as the permanent public documentation layer for the Bitcoin $100K Ordinals Collection.
+
+It establishes:
+
+- The confirmation block reference (873201)
+- The structural supply framework (201 ordinals)
+- The double-layer provenance model
+- The metadata architecture standard
+
+This archive exists to preserve transparency, structure, and historical accuracy.
+
